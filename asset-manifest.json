@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/external-style-reactapp.github.io/static/css/main.b20ef528.css",
+    "main.js": "/external-style-reactapp.github.io/static/js/main.20150333.js",
+    "static/js/787.53d44182.chunk.js": "/external-style-reactapp.github.io/static/js/787.53d44182.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/external-style-reactapp.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/external-style-reactapp.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/external-style-reactapp.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/external-style-reactapp.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/external-style-reactapp.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/external-style-reactapp.github.io/index.html",
+    "main.b20ef528.css.map": "/external-style-reactapp.github.io/static/css/main.b20ef528.css.map",
+    "main.20150333.js.map": "/external-style-reactapp.github.io/static/js/main.20150333.js.map",
+    "787.53d44182.chunk.js.map": "/external-style-reactapp.github.io/static/js/787.53d44182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20ef528.css",
+    "static/js/main.20150333.js"
+  ]
+}
