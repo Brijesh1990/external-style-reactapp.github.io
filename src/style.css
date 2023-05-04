@@ -1,0 +1,71 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: cadetblue;
+}
+
+#main-section
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.content1
+{
+    width: 45%;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+
+}
+.content2
+{
+    width: 45%;
+    height: auto;
+    padding: 20px;
+    
+} 
+
+hr 
+{
+    width: 50%;
+    height: auto;
+    text-align: left;
+}
+
+input[type="text"],input[type="email"],textarea
+{
+width: 320px;
+height: auto;
+padding: 6px;
+
+}
+
+input[type="submit"]
+{
+    width: 120px;
+    height: auto;
+    padding: 8px;
+    background-color: green;
+    color: white;
+    border: none;
+        
+}
+
+input[type="reset"]
+{
+    width: 120px;
+    height: auto;
+    padding: 8px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-left: 2%;
+}
